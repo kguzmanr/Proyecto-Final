@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kev-g\\Music\\UPIBC\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\kev-g\\Music\\UPIBC\\Models\\Models.csproj",
+      "projectPath": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\kev-g\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kev-g\\Music\\UPIBC\\Models\\obj\\",
+      "outputPath": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kev-g\\AppData\\Roaming\\NuGet\\NuGet.Config",

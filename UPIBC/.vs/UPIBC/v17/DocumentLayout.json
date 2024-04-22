@@ -1,9 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kev-g\\Music\\UPIBC\\",
+  "WorkspaceRootPath": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5FE7BA0-D3C5-4F6B-9E18-3210ABE44234}|Models\\Models.csproj|c:\\users\\kev-g\\music\\upibc\\models\\acme\\tipoempresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAB3A05D-E83B-4C21-A435-A84ACE4955CD}|UPI_ACME\\UPI_ACME.csproj|c:\\users\\kev-g\\music\\proyecto final\\upibc\\upi_acme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB3A05D-E83B-4C21-A435-A84ACE4955CD}|UPI_ACME\\UPI_ACME.csproj|solutionrelative:upi_acme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90F2EDA-9003-493E-8AC8-8EC342F15D15}|Services\\Services.csproj|c:\\users\\kev-g\\music\\proyecto final\\upibc\\services\\acme\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B90F2EDA-9003-493E-8AC8-8EC342F15D15}|Services\\Services.csproj|solutionrelative:services\\acme\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5421553C-9851-4B82-BB33-ED4533130C7C}|DataAccess\\DataAccess.csproj|c:\\users\\kev-g\\music\\proyecto final\\upibc\\dataaccess\\acme\\empresada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5421553C-9851-4B82-BB33-ED4533130C7C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\acme\\empresada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5421553C-9851-4B82-BB33-ED4533130C7C}|DataAccess\\DataAccess.csproj|c:\\users\\kev-g\\music\\proyecto final\\upibc\\dataaccess\\acme\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5421553C-9851-4B82-BB33-ED4533130C7C}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\acme\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FE7BA0-D3C5-4F6B-9E18-3210ABE44234}|Models\\Models.csproj|c:\\users\\kev-g\\music\\proyecto final\\upibc\\models\\acme\\empresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FE7BA0-D3C5-4F6B-9E18-3210ABE44234}|Models\\Models.csproj|solutionrelative:models\\acme\\empresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FE7BA0-D3C5-4F6B-9E18-3210ABE44234}|Models\\Models.csproj|c:\\users\\kev-g\\music\\proyecto final\\upibc\\models\\acme\\tipoempresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5FE7BA0-D3C5-4F6B-9E18-3210ABE44234}|Models\\Models.csproj|solutionrelative:models\\acme\\tipoempresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +39,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\UPI_ACME\\Program.cs",
+              "RelativeDocumentMoniker": "UPI_ACME\\Program.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\UPI_ACME\\Program.cs",
+              "RelativeToolTip": "UPI_ACME\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:53:35.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpresaService.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\Services\\ACME\\EmpresaService.cs",
+              "RelativeDocumentMoniker": "Services\\ACME\\EmpresaService.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\Services\\ACME\\EmpresaService.cs",
+              "RelativeToolTip": "Services\\ACME\\EmpresaService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T05:38:07.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpresaDA.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\DataAccess\\ACME\\EmpresaDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ACME\\EmpresaDA.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\DataAccess\\ACME\\EmpresaDA.cs",
+              "RelativeToolTip": "DataAccess\\ACME\\EmpresaDA.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAuwNEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:57:08.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\DataAccess\\ACME\\Conexion.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ACME\\Conexion.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\DataAccess\\ACME\\Conexion.cs",
+              "RelativeToolTip": "DataAccess\\ACME\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:35:40.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpresaEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\Models\\ACME\\EmpresaEntidad.cs",
+              "RelativeDocumentMoniker": "Models\\ACME\\EmpresaEntidad.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\Models\\ACME\\EmpresaEntidad.cs",
+              "RelativeToolTip": "Models\\ACME\\EmpresaEntidad.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T03:03:47.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TipoEmpresaEntidad.cs",
-              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\UPIBC\\Models\\ACME\\TipoEmpresaEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\Models\\ACME\\TipoEmpresaEntidad.cs",
               "RelativeDocumentMoniker": "Models\\ACME\\TipoEmpresaEntidad.cs",
-              "ToolTip": "C:\\Users\\kev-g\\Music\\UPIBC\\Models\\ACME\\TipoEmpresaEntidad.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\Proyecto Final\\UPIBC\\Models\\ACME\\TipoEmpresaEntidad.cs",
               "RelativeToolTip": "Models\\ACME\\TipoEmpresaEntidad.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:56:05.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T18:56:05.211Z"
             }
           ]
         }
